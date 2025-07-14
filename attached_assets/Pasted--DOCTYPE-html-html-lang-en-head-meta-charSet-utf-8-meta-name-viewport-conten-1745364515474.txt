@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charSet="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="preload" as="image" href="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWsxcmVkdXNwcGQxcmN3d2ZtdW9wMjY1ZWdhMzR2MHk3djFmd2N2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sph5Vb44q9pwhPCckx/giphy.gif"/>
+    <link rel="stylesheet" href="/_next/static/css/f49743040567344b.css" data-precedence="next"/>
+    <link rel="stylesheet" href="/_next/static/css/f573e37e4dcc18fb.css" data-precedence="next"/>
+    <link rel="preload" as="script" fetchPriority="low" href="/_next/static/chunks/webpack-468a793c14a07f20.js"/>
+    <script src="/_next/static/chunks/fd9d1056-a03515607391f96b.js" async=""></script>
+    <script src="/_next/static/chunks/117-32a4df5337861d72.js" async=""></script>
+    <script src="/_next/static/chunks/main-app-8b98336d1af6a7b9.js" async=""></script>
+    <script src="/_next/static/chunks/246-b1c1f7afe5edfbef.js" async=""></script>
+    <script src="/_next/static/chunks/87-034649ffff72238d.js" async=""></script>
+    <script src="/_next/static/chunks/app/page-554e219c2930cf3c.js" async=""></script>
+    <link rel="preload" href="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js" as="script"/>
+    <link rel="icon" href="/favicon.ico" sizes="any"/>
+    <title>Get More Affilate Commissions</title>
+    <meta name="description" content="Providing open source tools for savvy shoppers and affilate marketers"/>
+    <link rel="author" href="https://getbadger.net"/>
+    <meta name="author" content="Badger"/>
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" sizes="16x16"/>
+    <script src="/_next/static/chunks/polyfills-42372ed130431b0a.js" noModule=""></script>
+</head>
+<body>
+    <div class="min-h-screen bg-gradient-to-br from-yellow-100 via-white to-teal-100">
+        <header class="font-bold w-full py-4 px-4 md:px-8 bg-white/80 backdrop-blur-md fixed top-0 z-50">
+            <div class="max-w-7xl mx-auto flex items-center justify-between font-bold text-l">
+                <div class="flex items-center space-x-2">
+                    <a class="flex items-center gap-2" href="/">
+                        <img alt="Logo" loading="lazy" width="50" height="50" decoding="async" data-nimg="1" class=" rounded-2xl w-10 h-10 bg-gradient-to-br from-white to-white-300 rounded-lg flex items-center justify-center shadow-md" style="color:transparent" srcSet="/_next/image?url=https%3A%2F%2Fi.imgur.com%2FZbv8Xwb.png&amp;w=64&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fi.imgur.com%2FZbv8Xwb.png&amp;w=128&amp;q=75 2x" src="/_next/image?url=https%3A%2F%2Fi.imgur.com%2FZbv8Xwb.png&amp;w=128&amp;q=75"/>
+                        <span class="font-bold text-xl text-foreground">Badger</span>
+                    </a>
+                </div>
+                <nav class="hidden md:flex items-center gap-6">
+                    <a class="font-bold text-gray-800 hover:text-orange-500 transition-colors font-medium" href="/">Home</a>
+                    <a class="font-bold text-gray-800 hover:text-orange-500 transition-colors font-medium" href="/about">About</a>
+                    <a href="/how" class="font-bold text-gray-800 hover:text-orange-500 transition-colors font-medium">How it Works</a>
+                    <a href="https://github.com/orgs/getBadger/repositories" target="_blank" rel="noopener noreferrer" class="text-gray-800 hover:text-orange-500 transition-colors font-medium flex items-center gap-1">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-github w-4 h-4">
+                            <path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"></path>
+                            <path d="M9 18c-4.51 2-5-2-7-2"></path>
+                        </svg>
+                        <span>GitHub</span>
+                    </a>
+                </nav>
+                <div></div>
+            </div>
+        </header>
+        <section class="pt-32 pb-20 px-4">
+            <div class="container mx-auto">
+                <div class="flex flex-col lg:flex-row items-center gap-12">
+                    <div class="flex-1">
+                        <div class="inline-block bg-orange-100 px-4 py-2 rounded-full mb-6">
+                            <span class="text-orange-600 font-medium">Coming Soon!</span>
+                        </div>
+                        <div class="flex flex-col items-center justify-center text-center px-4 py-12">
+                            <h1 class="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
+                                Increase Affiliate Sales with 
+                                <span class="text-orange-500">Badger</span>
+                            </h1>
+                            <p class="text-xl text-gray-600 mb-8 max-w-5xl">Badger helps affiliate marketers and influencers reach a broader audience and earn more sales commissions.</p>
+                            <div class="flex flex-col lg:flex-row items-stretch justify-center gap-8 w-full max-w-5xl">
+                                <div class="w-full lg:w-1/2">
+                                    <div id="mc_embed_signup">
+                                        <h1 class="text-2xl md:text-3xl lg:text-4xl font-bold mb-3">Join Our Waitlist!</h1>
+                                        <form id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" action="https://gmail.us20.list-manage.com/subscribe/post?u=d87324bb0fccf652d78a78b55&amp;id=d86aba4508&amp;f_id=009bc4e3f0" method="post" target="_self">
+                                            <div id="mc_embed_signup_scroll">
+                                                <div class="indicates-required" style="margin-bottom:10px;font-size:14px">
+                                                    <span class="asterisk" style="color:red">*</span>
+                                                     indicates required
+                                                </div>
+                                                <div class="mc-field-group" style="margin-bottom:15px">
+                                                    <label for="mce-USERTYPE" style="display:block;margin-bottom:5px">
+                                                        I am a... 
+                                                        <span class="asterisk" style="color:red">*</span>
+                                                    </label>
+                                                    <select name="USERTYPE" class="required w-full p-2 border border-gray-300 rounded bg-white" id="mce-USERTYPE" style="width:100%;padding:10px;border:1px solid #ccc;border-radius:4px">
+                                                        <option value="Digital Marketer">Digital Marketer</option>
+                                                        <option value="Savvy Shopper">Savvy Shopper</option>
+                                                        <option value="Potential Partner">Potential Partner</option>
+                                                    </select>
+                                                </div>
+                                                <div class="mc-field-group" style="margin-bottom:15px">
+                                                    <label for="mce-EMAIL" style="display:block;margin-bottom:5px">
+                                                        Email Address 
+                                                        <span class="asterisk" style="color:red">*</span>
+                                                    </label>
+                                                    <input type="email" class="required email w-full p-2 border border-gray-300 rounded bg-white" id="mce-EMAIL" required="" style="width:100%;padding:10px;border:1px solid #ccc;border-radius:4px" name="EMAIL" value=""/>
+                                                </div>
+                                                <div class="mc-field-group" style="margin-bottom:15px">
+                                                    <label for="mce-FNAME" style="display:block;margin-bottom:5px">
+                                                        Name 
+                                                        <span class="asterisk" style="color:red">*</span>
+                                                    </label>
+                                                    <input type="text" class="required text w-full p-2 border border-gray-300 rounded bg-white" id="mce-FNAME" style="width:100%;padding:10px;border:1px solid #ccc;border-radius:4px" name="FNAME" value=""/>
+                                                    <span id="mce-FNAME-HELPERTEXT" class="helper_text " style="display:block;margin-top:5px;font-size:12px;color:#666"></span>
+                                                </div>
+                                                <div hidden="">
+                                                    <input type="hidden" name="tags" value="3073767"/>
+                                                </div>
+                                                <div id="mce-responses" class="clear foot" style="margin-top:15px">
+                                                    <div class="response" id="mce-error-response" style="display:none;color:red;font-size:14px"></div>
+                                                    <div class="response" id="mce-success-response" style="display:none;color:green;font-size:14px"></div>
+                                                </div>
+                                                <div style="position:absolute;left:-5000px" aria-hidden="true">
+                                                    <input type="text" tabindex="-1" name="b_d87324bb0fccf652d78a78b55_d86aba4508" value=""/>
+                                                </div>
+                                                <div class="optionalParent" style="text-align:center;margin-top:20px">
+                                                    <div class="clear foot">
+                                                        <input type="submit" id="mc-embedded-subscribe" class="button" style="background-color:#007BFF;color:#fff;padding:10px 20px;border:none;border-radius:4px;cursor:pointer;font-size:16px" name="subscribe" value="Join Waitlist"/>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </form>
+                                        <script type="text/javascript">
+                                        (function($) {
+                                            window.fnames = new Array();
+                                            window.ftypes = new Array();
+                                            fnames[7] = 'USERTYPE';
+                                            ftypes[7] = 'dropdown';
+                                            fnames[0] = 'EMAIL';
+                                            ftypes[0] = 'email';
+                                            fnames[1] = 'FNAME';
+                                            ftypes[1] = 'text';
+                                            fnames[6] = 'COMPANY';
+                                            ftypes[6] = 'text';
+                                            fnames[2] = 'LNAME';
+                                            ftypes[2] = 'text';
+                                            fnames[3] = 'ADDRESS';
+                                            ftypes[3] = 'address';
+                                            fnames[4] = 'PHONE';
+                                            ftypes[4] = 'phone';
+                                            fnames[5] = 'BIRTHDAY';
+                                            ftypes[5] = 'birthday';
+                                        }(jQuery));
+                                        var $mcj = jQuery.noConflict(true);
+                                        </script>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <p class="mt-4 text-sm text-gray-600"></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="stats"></section>
+        <section id="how-it-works" class="py-20 px-4">
+            <div class="container mx-auto">
+                <div class="text-center mb-16">
+                    <h2 class="text-4xl font-bold mb-4">How It Works</h2>
+                    <p class="text-gray-600 max-w-2xl mx-auto">Badger works seamlessly in the background to enhance your browsing experience while keeping your data private and secure.</p>
+                </div>
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+                    <div class="rounded-lg border bg-card text-card-foreground border-none shadow-lg hover:shadow-xl transition-all">
+                        <div class="flex flex-col space-y-1.5 p-6">
+                            <div class="w-12 h-12 rounded-lg flex items-center justify-center bg-orange-100 mb-4">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-hand-coins w-6 h-6 text-orange-500">
+                                    <path d="M11 15h2a2 2 0 1 0 0-4h-3c-.6 0-1.1.2-1.4.6L3 17"></path>
+                                    <path d="m7 21 1.6-1.4c.3-.4.8-.6 1.4-.6h4c1.1 0 2.1-.4 2.8-1.2l4.6-4.4a2 2 0 0 0-2.75-2.91l-4.2 3.9"></path>
+                                    <path d="m2 16 6 6"></path>
+                                    <circle cx="16" cy="9" r="2.9"></circle>
+                                    <circle cx="6" cy="5" r="3"></circle>
+                                </svg>
+                            </div>
+                            <h3 class="text-2xl font-semibold leading-none tracking-tight">Easy to Use</h3>
+                        </div>
+                        <div class="p-6 pt-0">
+                            <p class="text-muted-foreground">Badger automatically finds and applies discount codes when you shop on supported sites.</p>
+                        </div>
+                    </div>
+                    <div class="rounded-lg border bg-card text-card-foreground border-none shadow-lg hover:shadow-xl transition-all">
+                        <div class="flex flex-col space-y-1.5 p-6">
+                            <div class="w-12 h-12 rounded-lg flex items-center justify-center bg-orange-100 mb-4">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-users-round w-6 h-6 text-orange-500">
+                                    <path d="M18 21a8 8 0 0 0-16 0"></path>
+                                    <circle cx="10" cy="8" r="5"></circle>
+                                    <path d="M22 20c0-3.37-2-6.5-4-8a5 5 0 0 0-.45-8.3"></path>
+                                </svg>
+                            </div>
+                            <h3 class="text-2xl font-semibold leading-none tracking-tight">Increase Affiliate Sales</h3>
+                        </div>
+                        <div class="p-6 pt-0">
+                            <p class="text-muted-foreground">Stop spending money on ads, Badger does all the work for you by sharing the codes with our community.</p>
+                        </div>
+                    </div>
+                    <div class="rounded-lg border bg-card text-card-foreground border-none shadow-lg hover:shadow-xl transition-all">
+                        <div class="flex flex-col space-y-1.5 p-6">
+                            <div class="w-12 h-12 rounded-lg flex items-center justify-center bg-orange-200 mb-4">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-blend w-6 h-6 text-orange-600">
+                                    <circle cx="9" cy="9" r="7"></circle>
+                                    <circle cx="15" cy="15" r="7"></circle>
+                                </svg>
+                            </div>
+                            <h3 class="text-2xl font-semibold leading-none tracking-tight">Transparent</h3>
+                        </div>
+                        <div class="p-6 pt-0">
+                            <p class="text-muted-foreground">Our extension is open source, so anyone can review and audit what Badger does.</p>
+                        </div>
+                    </div>
+                    <div class="rounded-lg border bg-card text-card-foreground border-none shadow-lg hover:shadow-xl transition-all">
+                        <div class="flex flex-col space-y-1.5 p-6">
+                            <div class="w-12 h-12 rounded-lg flex items-center justify-center bg-teal-100 mb-4">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-heart-handshake w-6 h-6 text-teal-500">
+                                    <path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"></path>
+                                    <path d="M12 5 9.04 7.96a2.17 2.17 0 0 0 0 3.08c.82.82 2.13.85 3 .07l2.07-1.9a2.82 2.82 0 0 1 3.79 0l2.96 2.66"></path>
+                                    <path d="m18 15-2-2"></path>
+                                    <path d="m15 18-2-2"></path>
+                                </svg>
+                            </div>
+                            <h3 class="text-2xl font-semibold leading-none tracking-tight">Community-driven</h3>
+                        </div>
+                        <div class="p-6 pt-0">
+                            <p class="text-muted-foreground">Coupons are added and validated by our ever-growing user base, so you don’t get codes that don’t work anymore.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="py-20 px-4 text-muted-foreground from-orange-100 via-gray-100 to-teal-100">
+            <div class="container mx-auto">
+                <div class="text-center mb-16">
+                    <h2 class="text-4xl font-bold mb-4">See Badger in Action</h2>
+                    <p class="text-gray-600 max-w-2xl mx-auto">Watch how Badger searches for discounts and applies them to your cart.</p>
+                </div>
+                <div class="relative w-full max-w-4xl mx-auto rounded-xl overflow-hidden shadow-2xl">
+                    <div class="aspect-w-16 aspect-h-9 ">
+                        <div class="w-full h-full text-muted-foreground from-orange-200 to-blue-200 flex items-center justify-center">
+                            <div class="text-center p-8">
+                                <h3 class="text-2xl font-bold mb-4 text-white">Product Demo</h3>
+                                <p class="text-white/80 mb-6">
+                                    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWsxcmVkdXNwcGQxcmN3d2ZtdW9wMjY1ZWdhMzR2MHk3djFmd2N2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sph5Vb44q9pwhPCckx/giphy.gif" alt="getBadger Demo"/>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="mt-12 text-center">
+                    <p class="mb-6 text-gray-600">Ready to experience Badger for yourself? Join our waitlist and be the first to know when we launch!</p>
+                </div>
+            </div>
+        </section>
+        <section class="py-20 px-4 bg-gray-50">
+            <div class="container mx-auto">
+                <div class="max-w-4xl mx-auto bg-white rounded-xl shadow-xl p-8 md:p-12">
+                    <div class="flex flex-col md:flex-row items-center gap-8">
+                        <div class="flex-1">
+                            <div class="inline-block bg-yellow-100 p-3 rounded-lg mb-4">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-heart w-6 h-6 text-orange-500">
+                                    <path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"></path>
+                                </svg>
+                            </div>
+                            <h2 class="text-3xl font-bold mb-4">Support Our Mission</h2>
+                            <p class="text-gray-600 mb-6">Help us make the web a safer, faster place. Your contributions directly fund development and help us keep Badger free for everyone.</p>
+                            <div class="flex flex-wrap gap-4">
+                                <a href="https://patreon.com/getBadger" target="_blank" rel="noopener noreferrer">
+                                    <button class="inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ring-offset-gray-100 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shrink-0 h-10 px-4 py-2 bg-red-500 text-white hover:bg-red-600">Support on Patreon</button>
+                                </a>
+                                <a href="https://github.com/orgs/getBadger/repositories" target="_blank" rel="noopener noreferrer">
+                                    <button class="inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ring-offset-gray-100 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shrink-0 border bg-gray-100 hover:text-accent-foreground h-10 px-4 py-2 border-blue-500 text-blue-500 hover:bg-blue-100">Star on GitHub</button>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="flex-1 flex justify-center">
+                            <div class="w-full max-w-xs aspect-square bg-gradient-to-br from-yellow-100 to-teal-100 rounded-full flex items-center justify-center p-8">
+                                <div class="w-full h-full bg-white rounded-full flex items-center justify-center shadow-inner">
+                                    <div class="text-center">
+                                        <p class="text-5xl font-bold text-orange-500 mb-2">♥</p>
+                                        <p class="text-sm text-gray-600">Thank you for your support!</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <footer class="bg-gray-100 py-12">
+            <div class="container mx-auto px-4">
+                <div class="flex flex-col md:flex-row justify-between items-center md:items-start gap-8">
+                    <div class="flex flex-col items-center md:items-start gap-4">
+                        <div class="flex items-center space-x-2">
+                            <a class="flex items-center gap-2" href="/">
+                                <img alt="Logo" loading="lazy" width="50" height="50" decoding="async" data-nimg="1" class=" rounded-2xl w-10 h-10 bg-gradient-to-br from-white to-white-300 rounded-lg flex items-center justify-center shadow-md" style="color:transparent" srcSet="/_next/image?url=https%3A%2F%2Fi.imgur.com%2FZbv8Xwb.png&amp;w=64&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fi.imgur.com%2FZbv8Xwb.png&amp;w=128&amp;q=75 2x" src="/_next/image?url=https%3A%2F%2Fi.imgur.com%2FZbv8Xwb.png&amp;w=128&amp;q=75"/>
+                                <span class="font-bold text-xl text-foreground">Badger</span>
+                            </a>
+                        </div>
+                        <p class="text-gray-600 text-center md:text-left max-w-sm">Providing open source tools for savvy shoppers and affiliate marketers. Transparency by the people, for the people.</p>
+                    </div>
+                    <div class="flex flex-col gap-4">
+                        <h3 class="font-bold text-lg">Links</h3>
+                        <div class="flex flex-col gap-2">
+                            <a href="/" class="hover:text-orange-500 hover:text-orange-500 transition-colors">Home</a>
+                            <a href="/about" class="hover:text-orange-500 hover:text-orange-500 transition-colors">About</a>
+                            <a href="/how" class="hover:text-orange-500 hover:text-orange-500 transition-colors">How it Works</a>
+                        </div>
+                    </div>
+                    <div class="flex flex-col gap-4">
+                        <h3 class="font-bold text-lg">Support Us</h3>
+                        <div class="flex flex-col gap-2">
+                            <a href="https://github.com/orgs/getBadger/repositories" target="_blank" rel="noopener noreferrer" class="hover:text-orange-500 hover:text-orange-500 transition-colors flex items-center gap-2">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-github w-4 h-4">
+                                    <path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"></path>
+                                    <path d="M9 18c-4.51 2-5-2-7-2"></path>
+                                </svg>
+                                <span>GitHub</span>
+                            </a>
+                            <a href="https://patreon.com/getBadger?utm_medium=unknown&amp;utm_source=join_link&amp;utm_campaign=creatorshare_creator&amp;utm_content=copyLink" target="_blank" rel="noopener noreferrer" class="hover:text-orange-500 hover:text-orange-500 transition-colors flex items-center gap-2">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-coffee w-4 h-4">
+                                    <path d="M10 2v2"></path>
+                                    <path d="M14 2v2"></path>
+                                    <path d="M16 8a1 1 0 0 1 1 1v8a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V9a1 1 0 0 1 1-1h14a4 4 0 1 1 0 8h-1"></path>
+                                    <path d="M6 2v2"></path>
+                                </svg>
+                                <span>Patreon</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="mt-12 pt-6 border-t border-gray-300 flex flex-col md:flex-row justify-between items-center gap-4">
+                    <p class="text-gray-600 text-sm">
+                        © <!-- -->
+                        2025<!-- -->
+                         Badger. All rights reserved.
+                    </p>
+                    <p class="text-gray-600 text-sm flex items-center gap-1">
+                        Made with 
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-heart w-4 h-4 text-orange-500">
+                            <path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"></path>
+                        </svg>
+                         by the Badger Team
+                    </p>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <script src="/_next/static/chunks/webpack-468a793c14a07f20.js" async=""></script>
+    <script>
+    (self.__next_f = self.__next_f || []).push([0]);
+    self.__next_f.push([2, null])
+    </script>
+    <script>
+    self.__next_f.push([1, "1:HL[\"/_next/static/css/f49743040567344b.css\",\"style\"]\n2:HL[\"/_next/static/css/f573e37e4dcc18fb.css\",\"style\"]\n"])
+    </script>
+    <script>
+    self.__next_f.push([1, "3:I[2846,[],\"\"]\n5:I[9107,[],\"ClientPageRoot\"]\n6:I[2441,[\"246\",\"static/chunks/246-b1c1f7afe5edfbef.js\",\"87\",\"static/chunks/87-034649ffff72238d.js\",\"931\",\"static/chunks/app/page-554e219c2930cf3c.js\"],\"default\",1]\n7:I[4707,[],\"\"]\n8:I[6423,[],\"\"]\na:I[1060,[],\"\"]\nb:[]\n"])
+    </script>
+    <script>
+    self.__next_f.push([1, "0:[\"$\",\"$L3\",null,{\"buildId\":\"pyXe8ljbuW7aNwCBo_rl1\",\"assetPrefix\":\"\",\"urlParts\":[\"\",\"\"],\"initialTree\":[\"\",{\"children\":[\"__PAGE__\",{}]},\"$undefined\",\"$undefined\",true],\"initialSeedData\":[\"\",{\"children\":[\"__PAGE__\",{},[[\"$L4\",[\"$\",\"$L5\",null,{\"props\":{\"params\":{},\"searchParams\":{}},\"Component\":\"$6\"}],null],null],null]},[[[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/f49743040567344b.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}],[\"$\",\"link\",\"1\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/f573e37e4dcc18fb.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}]],[\"$\",\"html\",null,{\"lang\":\"en\",\"children\":[\"$\",\"body\",null,{\"children\":[\"$\",\"$L7\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\"],\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$L8\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":[[\"$\",\"title\",null,{\"children\":\"404: This page could not be found.\"}],[\"$\",\"div\",null,{\"style\":{\"fontFamily\":\"system-ui,\\\"Segoe UI\\\",Roboto,Helvetica,Arial,sans-serif,\\\"Apple Color Emoji\\\",\\\"Segoe UI Emoji\\\"\",\"height\":\"100vh\",\"textAlign\":\"center\",\"display\":\"flex\",\"flexDirection\":\"column\",\"alignItems\":\"center\",\"justifyContent\":\"center\"},\"children\":[\"$\",\"div\",null,{\"children\":[[\"$\",\"style\",null,{\"dangerouslySetInnerHTML\":{\"__html\":\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\"}}],[\"$\",\"h1\",null,{\"className\":\"next-error-h1\",\"style\":{\"display\":\"inline-block\",\"margin\":\"0 20px 0 0\",\"padding\":\"0 23px 0 0\",\"fontSize\":24,\"fontWeight\":500,\"verticalAlign\":\"top\",\"lineHeight\":\"49px\"},\"children\":\"404\"}],[\"$\",\"div\",null,{\"style\":{\"display\":\"inline-block\"},\"children\":[\"$\",\"h2\",null,{\"style\":{\"fontSize\":14,\"fontWeight\":400,\"lineHeight\":\"49px\",\"margin\":0},\"children\":\"This page could not be found.\"}]}]]}]}]],\"notFoundStyles\":[]}]}]}]],null],null],\"couldBeIntercepted\":false,\"initialHead\":[null,\"$L9\"],\"globalErrorComponent\":\"$a\",\"missingSlots\":\"$Wb\"}]\n"])
+    </script>
+    <script>
+    self.__next_f.push([1, "9:[[\"$\",\"meta\",\"0\",{\"name\":\"viewport\",\"content\":\"width=device-width, initial-scale=1\"}],[\"$\",\"meta\",\"1\",{\"charSet\":\"utf-8\"}],[\"$\",\"title\",\"2\",{\"children\":\"Get More Affilate Commissions\"}],[\"$\",\"meta\",\"3\",{\"name\":\"description\",\"content\":\"Providing open source tools for savvy shoppers and affilate marketers\"}],[\"$\",\"link\",\"4\",{\"rel\":\"author\",\"href\":\"https://getbadger.net\"}],[\"$\",\"meta\",\"5\",{\"name\":\"author\",\"content\":\"Badger\"}],[\"$\",\"link\",\"6\",{\"rel\":\"icon\",\"href\":\"/favicon.ico\",\"type\":\"image/x-icon\",\"sizes\":\"16x16\"}]]\n4:null\n"])
+    </script>
+</body>
+</html>
